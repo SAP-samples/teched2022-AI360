@@ -50,6 +50,9 @@ Once the account is generated, you can create your service instance for Document
 
 *Duration: approximately 40 minutes*
 
+#### Alternative
+Instead of creating the schema and template, they can also be imported by navigating to the template screen and clicking the 'Import Template' button and uploading the [zip-file](./Custom_purchase_order_template.zip).
+
 There would a Q&A session after the exercises during the hands-on session at TechEd.
 
 ## How to obtain support
