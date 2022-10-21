@@ -1,37 +1,56 @@
-# Session ID - Session Title
+# AI360 - Dive into Business Document Processing with AI Step by Step
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called AI360 - Dive into Business Document Processing with AI Step by Step.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the steps required to create custom templates on Document Information Extraction.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+To get the most out of this TechEd hands-on workshop, participants of this training need to create a BTP account and a service instance for Document Information Extraction as a prerequisite step.
+
+### Get your free trial account on SAP Business Technology Platform
+To create a service instance for Document Information Extraction it is necessary to generate a trial account if you do not have one. Please remember that your trial account can be extended unlimited times in case your trial account is already expired. You will find more information [here](https://developers.sap.com/tutorials/hcp-create-trial-account.html#0dcf1c45-cd6f-48cc-ae10-690765287a5a). 
+
+### Run Booster for Document Information Extraction 
+Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html)
+
+*Duration: approximately 20 minutes* 
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+## Pre-check: Sample Document Extraction
+<a id="Exercise0"></a>
+- Step 1: Download the [sample document](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf)
+- Step 2: Upload document to the DOX UI and check the results.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+### Use Case 1: Standard Document Type 
+<a id="Exercise1"></a>
+**Exercise 1:**
+[Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
 
-  
-**OR** Link to the Tutorial Navigator for example...
+<a id="Exercise2"></a>
+**Exercise 2:**
+[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+*Duration: approximately 40 minutes*
 
-**IMPORTANT**
+### Use Case 2: Custom Document Type 
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+<a id="Exercise3"></a>
+**Exercise 3:**
+[Create Custom Schema for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html)
+
+<a id="Exercise4"></a>
+**Exercise 4:**
+[Create Custom Template for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html)
+
+*Duration: approximately 30 minutes*
+
+There would a Q&A session after the exercises during the hands-on session at TechEd.
 
 ## How to obtain support
 
