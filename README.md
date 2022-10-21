@@ -39,7 +39,7 @@ Once the account is generated, you can create your service instance for Document
 
 *Duration: approximately 30 minutes*
 
-### Exercise 3: Standard Document Type 
+### (Optional) Exercise 3: Standard Document Type 
 <a id="Exercise3a"></a>
 **Exercise 3a:**
 [Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
