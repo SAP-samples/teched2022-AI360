@@ -53,11 +53,10 @@ Once the account is generated, you can create your service instance for Document
 #### Alternative
 Instead of creating the schema and template, they can also be imported by navigating to the template screen and clicking the 'Import Template' button and uploading the [zip-file](./Custom_purchase_order_template.zip).
 
-There would a Q&A session after the exercises during the hands-on session at TechEd.
-
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+There will be a Q&A session after the exercises during the hands-on session at TechEd.
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
