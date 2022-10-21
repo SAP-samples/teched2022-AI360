@@ -18,37 +18,37 @@ To create a service instance for Document Information Extraction it is necessary
 ### Run Booster for Document Information Extraction 
 Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html)
 
-*Duration: approximately 20 minutes* 
+*Duration: approximately 5 minutes* 
 
 ## Exercises
 
-## Pre-check: Sample Document Extraction
+### Exercise 1: (Pre-check) Process a document with a pretrained model
 <a id="Exercise0"></a>
 - Step 1: Download the [sample document](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf)
 - Step 2: Upload document to the DOX UI and check the results.
 
-### Use Case 1: Standard Document Type 
-<a id="Exercise1"></a>
-**Exercise 1:**
-[Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
+### Exercise 2: Custom Document Type
 
-<a id="Exercise2"></a>
-**Exercise 2:**
-[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html)
-
-*Duration: approximately 40 minutes*
-
-### Use Case 2: Custom Document Type 
-
-<a id="Exercise3"></a>
-**Exercise 3:**
+<a id="Exercise2a"></a>
+**Exercise 2a:**
 [Create Custom Schema for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html)
 
-<a id="Exercise4"></a>
-**Exercise 4:**
+<a id="Exercise2b"></a>
+**Exercise 2b:**
 [Create Custom Template for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html)
 
 *Duration: approximately 30 minutes*
+
+### Exercise 3: Standard Document Type 
+<a id="Exercise3a"></a>
+**Exercise 3a:**
+[Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
+
+<a id="Exercise3b"></a>
+**Exercise 3b:**
+[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html)
+
+*Duration: approximately 40 minutes*
 
 There would a Q&A session after the exercises during the hands-on session at TechEd.
 
