@@ -42,6 +42,7 @@ Once the account is generated, you can create your service instance for Document
 *Duration: approximately 30 minutes*
 
 ### (Optional) Exercise 3: Standard Document Type 
+
 <a id="Exercise3a"></a>
 **Exercise 3a:**
 [Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
@@ -52,8 +53,15 @@ Once the account is generated, you can create your service instance for Document
 
 *Duration: approximately 40 minutes*
 
-#### Alternative
-Instead of creating the schema and template, they can also be imported by navigating to the template screen and clicking the 'Import Template' button and uploading the [zip-file](./Custom_purchase_order_template.zip).
+#### Alternative 
+Instead of creating the schema and template, they can also be imported by navigating to the template screen and clicking the 'Import Template' button and uploading the [zip-file](./Custom_purchase_order_template.zip). To do so, follow these steps:
+
+* Navigate to the template overview, identify the 'Import Template' button on the very right and click it ![image](https://user-images.githubusercontent.com/33467822/197553317-4a4c2366-6ee3-482a-8150-f11576d14900.png)
+* Select the downloaded zip file ![image](https://user-images.githubusercontent.com/33467822/197553569-589bcae5-bd1a-47c8-b74f-f150ea5c9a1c.png)
+* A new template should appear in the overview with status 'Draft' ![image](https://user-images.githubusercontent.com/33467822/197553995-ba64d741-f53c-450e-9120-0d7de96dd459.png)
+* Open the template details by clicking on it and click on 'Activate' ![image](https://user-images.githubusercontent.com/33467822/197554174-47dbae56-af38-46b1-b1f0-5ef3da3d3e48.png)
+
+*Duration: approximately 5 minutes*
 
 ## How to obtain support
 
