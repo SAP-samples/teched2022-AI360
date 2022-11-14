@@ -49,8 +49,7 @@ Once the account is generated, you can create your service instance for Document
 
 <a id="Exercise3b"></a>
 **Exercise 3b:**
-[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html){:target="_blank"}
-<a href="" target="_blank"></a>
+[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html)
 
 *Duration: approximately 40 minutes*
 
