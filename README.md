@@ -13,10 +13,10 @@ This session introduces attendees to the steps required to create custom templat
 To get the most out of this TechEd hands-on workshop, participants of this training need to create a BTP account and a service instance for Document Information Extraction as a prerequisite step.
 
 ### Get your free trial account on SAP Business Technology Platform
-To create a service instance for Document Information Extraction it is necessary to generate a trial account if you do not have one. Please remember that your trial account can be extended unlimited times in case your trial account is already expired. You will find more information [here](https://developers.sap.com/tutorials/hcp-create-trial-account.html#0dcf1c45-cd6f-48cc-ae10-690765287a5a). 
+To create a service instance for Document Information Extraction it is necessary to generate a trial account if you do not have one. Please remember that your trial account can be extended unlimited times in case your trial account is already expired. You will find more information [here](https://developers.sap.com/tutorials/hcp-create-trial-account.html#0dcf1c45-cd6f-48cc-ae10-690765287a5a){:target="_blank"}. 
 
 ### Run Booster for Document Information Extraction 
-Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html)
+Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html){:target="_blank"}
 
 *Duration: approximately 5 minutes* 
 
@@ -24,8 +24,8 @@ Once the account is generated, you can create your service instance for Document
 
 ### Exercise 1: (Pre-check) Process a document with a pretrained model
 <a id="Exercise0"></a>
-- Step 1: Download the [sample document](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf)
-- Step 2: Upload document to the DOX UI and check the results as described [here](https://developers.sap.com/tutorials/cp-aibus-dox-ui.html)
+- Step 1: Download the [sample document](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf){:target="_blank"}
+- Step 2: Upload document to the DOX UI and check the results as described [here](https://developers.sap.com/tutorials/cp-aibus-dox-ui.html){:target="_blank"}
 
 *Duration: approximately 5 minutes*
 
@@ -33,11 +33,11 @@ Once the account is generated, you can create your service instance for Document
 
 <a id="Exercise2a"></a>
 **Exercise 2a:**
-[Create Custom Schema for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html)
+[Create Custom Schema for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html){:target="_blank"}
 
 <a id="Exercise2b"></a>
 **Exercise 2b:**
-[Create Custom Template for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html)
+[Create Custom Template for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html){:target="_blank"}
 
 *Duration: approximately 30 minutes*
 
@@ -45,16 +45,16 @@ Once the account is generated, you can create your service instance for Document
 
 <a id="Exercise3a"></a>
 **Exercise 3a:**
-[Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
+[Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html){:target="_blank"}
 
 <a id="Exercise3b"></a>
 **Exercise 3b:**
-[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html)
+[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html){:target="_blank"}
 
 *Duration: approximately 40 minutes*
 
 #### Short-cut for Exercise 3 (alternative approach) 
-Instead of creating the schema and annotating the template, it can also be easily  imported into your project by navigating to the template screen and clicking the 'Import Template' button. To do so, follow these steps [here](https://github.com/SAP-samples/teched2022-AI380/tree/main/exercises).
+Instead of creating the schema and annotating the template, it can also be easily  imported into your project by navigating to the template screen and clicking the 'Import Template' button. To do so, follow these steps [here](https://github.com/SAP-samples/teched2022-AI380/tree/main/exercises){:target="_blank"}.
 
 *Duration: approximately 5 minutes*
 
