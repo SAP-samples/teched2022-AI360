@@ -24,7 +24,7 @@ Once the account is generated, you can create your service instance for Document
 
 ### Exercise 1: (Pre-check) Process a document with a pretrained model
 <a id="Exercise0"></a>
-- Step 1: Download the [sample document](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf){:target="_blank"}
+- Step 1: Download the <a href="[http://example.com/](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf)" target="_blank">sample document</a>
 - Step 2: Upload document to the DOX UI and check the results as described [here](https://developers.sap.com/tutorials/cp-aibus-dox-ui.html){:target="_blank"}
 
 *Duration: approximately 5 minutes*
